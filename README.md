@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toprak</h1>
-<h3 align="center">A passionate software tester from Belgium</h3>
+<h3 align="center">A passionate Software Tester from Belgium</h3>
 
 - 🔭 I’m currently working on [Contanax](https://contanax.com/)
 
